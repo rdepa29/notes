@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integrated Chemistry Accelerated 251/Unit 2 - Thermochemistry & Solubility/KMT - 10-21-2026.md",
+                "file": "Integrated Math Accelerated 350/Unit 3 - Trigonometric Functions/3.1 - 10-27-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KMT - 10-21-2026"
+              "title": "3.1 - 10-27-2026"
             }
           }
         ],
@@ -175,22 +175,10 @@
             "id": "4be41d62d9c79b4d",
             "type": "leaf",
             "state": {
-              "type": "claudian-view",
-              "state": {
-                "tabWorkspace": {
-                  "version": 1,
-                  "openTabs": [
-                    {
-                      "tabId": "tab-1789476535352-uyg40ym",
-                      "conversationId": null,
-                      "draftModel": "opencode:opencode/big-pickle"
-                    }
-                  ],
-                  "activeTabId": "tab-1789476535352-uyg40ym"
-                }
-              },
-              "icon": "lucide-ghost",
-              "title": "claudian-view"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -212,14 +200,23 @@
               "icon": "lucide-ghost",
               "title": "extended-headings-outline"
             }
+          },
+          {
+            "id": "a76ce2b3969930f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,13 +239,17 @@
   },
   "active": "7630ba43938c9ae9",
   "lastOpenFiles": [
-    "US History/Unit 3 - Expansions/Class Notes/3.03 - 10-12-2026.md",
-    "Integrated Chemistry Accelerated 251/Unit 2 - Thermochemistry & Solubility/KMT - 10-21-2026.md",
+    "Integrated Math Accelerated 350/Unit 3 - Trigonometric Functions/3.1 - 10-27-2026.md",
+    "US History/Unit 3 - Expansions/Class Notes/3.07 - 10-26-2026.md",
+    "Integrated Math Accelerated 350/Unit 3 - Trigonometric Functions",
     "US History/Unit 3 - Expansions/Class Notes/3.04 - 10-14-2026.md",
+    "US History/Unit 3 - Expansions/Class Notes/3.03 - 10-12-2026.md",
+    "US History/Unit 3 - Expansions/Class Notes/3.01 - 10-07-2026.md",
+    "US History/Unit 2 - Foundations/Unit 2 - Foundations Notes.md",
+    "Integrated Chemistry Accelerated 251/Unit 2 - Thermochemistry & Solubility/KMT - 10-21-2026.md",
     "US History/Unit 2 - Foundations/Class Notes/2.01 - 09-15-2026.md",
     "US History/Unit 2 - Foundations/Class Notes/2.03 - 09-23-2026.md",
     "US History/Unit 2 - Foundations/Class Notes/2.02 - 09-17-2026.md",
-    "US History/Unit 3 - Expansions/Class Notes/3.01 - 10-07-2026.md",
     "US History/Unit 3 - Expansions/Class Notes/3.02 - 10-08-2026.md",
     "US History/Unit 3 - Expansions/Unit 3 - Expansions Notes.md",
     "US History/Unit 2 - Foundations/Class Notes/2.06 - 10-02-2026.md",
@@ -257,7 +258,6 @@
     "US History/Unit 2 - Foundations/Class Notes/2.05 - 09-28-2026.md",
     "US History/Unit 2 - Foundations/Class Notes/2.04 - 09-25-2026.md",
     "Untitled.canvas",
-    "US History/Unit 2 - Foundations/Unit 2 - Foundations Notes.md",
     "The.md",
     "Integrated Chemistry Accelerated 251/Unit 1 - Molecular Shape & Properties/1.3 - Macromolecules",
     "Integrated Chemistry Accelerated 251/Unit 1 - Molecular Shape & Properties/1.1 - Matter's Structure/1.1 - Matter's Structure Notes.md",
@@ -268,7 +268,6 @@
     "Integrated Chemistry Accelerated 251/Unit 1 - Molecular Shape & Properties/1.2 - Polarity & Properties",
     "Integrated Chemistry Accelerated 251/Unit 1 - Molecular Shape & Properties/1.1 - Matter's Structure",
     "Integrated Chemistry Accelerated 251/Unit 2 - Thermochemistry & Solubility",
-    "Integrated Chemistry Accelerated 251/Unit 1 - Molecular Shape & Properties",
     "Untitled.md",
     "US History/Unit 2 - Foundations/2026-09-15.md",
     "OneNote/Science (On 9-3-2026)/10th Grade/Unit 1/Molecular Orbitals Intro Notes KEY.md",
@@ -279,9 +278,7 @@
     "OneNote/Science (On 9-3-2026)/10th Grade.md",
     "OneNote/Spanish (On 8-16-2026)/Spanish 200/U4.md",
     "OneNote/Spanish (On 8-16-2026)/Spanish 200/U4 - Ink.svg",
-    "OneNote/Spanish (On 8-16-2026)/Spanish 200/U2/Caperucita Roja (sub day) (2).md",
     "OneNote/Spanish (On 8-16-2026)/Spanish 200/U2/Caperucita Roja (sub day) (2) - Ink.svg",
-    "OneNote/Spanish (On 8-16-2026)/Spanish 200/U2.md",
     "OneNote/Spanish (On 8-16-2026)/Spanish 200/U0/Grammar Review for 200 (Present Tense) - Ink.svg",
     "OneNote/Science (On 9-8-2026)/10th Grade/Unit 1/Molecular Orbitals Intro Notes KEY image 2.png",
     "OneNote/Science (On 9-8-2026)/10th Grade/Unit 1/Molecular Orbitals Intro Notes KEY image 1.png",

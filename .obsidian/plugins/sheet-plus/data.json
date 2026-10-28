@@ -17,5 +17,7 @@
   "darkModal": "dark",
   "isBigSheet": "false",
   "fontFolder": "",
+  "rtlDirection": "ltr",
+  "defaultFontFamily": "",
   "selectedFontName": ""
 }
